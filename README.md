@@ -36,16 +36,20 @@ urls:
 - 🃏 Custom Card https://dribbble.com/shots/20629590-Business-Card-Mobile-IOS-App
 - 📍 Apple.Maps App https://apps.apple.com/us/app/apple-maps/id915056765
   
-gif previews:
+previews:
 
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_wallets.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_crypto.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_taxi.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_map_parking.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_custom_card.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_buy_stock.gif)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music_3.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_wallets.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_crypto.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport_2.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_taxi.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_map_parking.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_custom_card.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_custom_card_2.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_buy_stock.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_buy_stock_2.jpg)
 
 ### More info 👉 [ContainerController](https://github.com/mrustaa/ContainerController)
 
