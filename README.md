@@ -57,7 +57,7 @@ gif previews:
 
 ## Author
 
-<motionrustam@gmail.com> 📩| [mrustaa](https://github.com/mrustaa/) JUNE 2020
+<motionrustam@gmail.com> 📩| [mrustaa](https://github.com/mrustaa/) JUNE 2024
 
 ## License
 
