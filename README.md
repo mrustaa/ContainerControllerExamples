@@ -39,7 +39,7 @@ urls:
 previews:
 
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music.jpg)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music_3.jpg)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music_4.jpg)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_wallets.jpg)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_crypto.jpg)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport.jpg)
