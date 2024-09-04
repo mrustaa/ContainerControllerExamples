@@ -38,14 +38,14 @@ urls:
   
 gif previews:
 
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_wallets.gif)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_play_music_mini_2.gif)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_wallets_mini_2.gif)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport_mini_2.gif)
+![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_buy_stock_mini_2.gif)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_crypto.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_sport.gif)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_taxi.gif)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_map_parking.gif)
 ![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_custom_card.gif)
-![image](https://github.com/mrustaa/gif_presentation/blob/master/ContainerControllerSwift/screen_buy_stock.gif)
 
 ### More info 👉 [ContainerController](https://github.com/mrustaa/ContainerController)
 
